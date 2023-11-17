@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I´m Samuel
+- <i>Graduando em Análise e Desenvolvimento de Sistemas</i>
+- _Front-end Developer_
+- _Amo programar!_
+<hr>
+<div>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+</div>
 
-<!--
-**SamuelJRL/SamuelJRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" width="50" height="50" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
