@@ -1,5 +1,5 @@
 # Hi, I´m Samuel
-- <i>Graduando em Análise e Desenvolvimento de Sistemas</i>
+- <i>Graduado em Análise e Desenvolvimento de Sistemas</i>
 - _Front-end Developer_
 - _Amo programar!_
 <hr>
