@@ -17,13 +17,10 @@
 
 ## 📊 My Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=donut&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJRL&layout=donut&theme=radical)
 
 ---
 
 ## 🌍 Find me at  
 
 📌 [LinkedIn](https://www.linkedin.com/)  
-📌 [GitHub](https://github.com/)  
-📌 [LinkedIn](https://www.linkedin.com/)  
-📌 [GitHub](https://github.com/)  
